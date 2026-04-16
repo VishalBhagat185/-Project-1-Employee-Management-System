@@ -1,4 +1,4 @@
-🚀 Project 1: Employee Management System
+<b> 🚀 Project 1: Employee Management System </b>
 
 👉 Concept: Manager can add, view, delete employees
 
